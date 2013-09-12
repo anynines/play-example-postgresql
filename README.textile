@@ -4,6 +4,8 @@ This application uses the play framework and PostgreSQL as underlying database s
 
 h2. Deployment on Anynines V2
 
+> play dist
+
 > cf push --path dist/computer-database-1.0.zip
 
 Name> cdatabase
